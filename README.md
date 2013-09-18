@@ -2,7 +2,6 @@ DotMatrixCalc
 =============
 LCD12232 Dot Matrix calculator by C#
 
-<<<<<<< HEAD
 Description
 -----------
 > * 本项目是在一次嵌入式开发中，由于`LCD12232`点阵屏未提供相应的字库，需要手动计算每一点的`16进制`数。  
@@ -15,9 +14,3 @@ ScreenShot
 WEIBO
 ------
 For some advices and suggestions, please contact me on [SinaWeibo](
-http://weibo.com/yangsonglove)
-=======
-LCD12232 Dot Matrix calculator by C#
-
-revised at July,14 2013
->>>>>>> 4a8698a08578872902b62340cc6018477c0748b6
