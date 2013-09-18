@@ -14,3 +14,4 @@ ScreenShot
 WEIBO
 ------
 For some advices and suggestions, please contact me on [SinaWeibo](
+http://weibo.com/yangsonglove)
